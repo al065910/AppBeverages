@@ -110,7 +110,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = "AppBeverages/**/*.{png,jpeg,jpg,storyboard,xib}"
+  s.resources = "AppBeverages/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
